@@ -43,3 +43,13 @@ text-align: center;
 padding: 20px;
 margin-top: 40px;
 }
+#contact ul {
+list-style-type: none;
+}
+#contact a {
+color: #667eea;
+text-decoration: none;
+}
+#contact a:hover {
+text-decoration: underline;
+}
